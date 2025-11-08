@@ -13,5 +13,5 @@ It's a Linux Distribution (based on Void Linux) for Zombie Stories (Roblox) Play
 - Other features (coming soon)
 # Zombie Stories GNU/Linux installation
 - Currently, we have rootfs tarball for manual installation. If you want to install, please contact me via Official Discord Server's 
-UTG/Linux Official Discord Server's: https://discord.gg/Ujr3Rtbnks
-Discord: untitledtaggame_hype
+- UTG/Linux Official Discord Server's: https://discord.gg/Ujr3Rtbnks
+- Discord: untitledtaggame_hype
