@@ -12,6 +12,6 @@ It's a Linux Distribution (based on Void Linux) for Zombie Stories (Roblox) Play
 - Codename for Zombie Stories GNU/Linux is going to be added (Beta release on Feburary 2026 also)
 - Other features (coming soon)
 # Zombie Stories GNU/Linux installation
-- Currently, we have rootfs tarball for manual installation. If you want to install, please contact me via Official Discord Server's 
+- Currently, we have rootfs tarball for manual installation. If you want to install, please join our official discord server's 
 - UTG/Linux Official Discord Server's: https://discord.gg/Ujr3Rtbnks
 - Discord: untitledtaggame_hype
