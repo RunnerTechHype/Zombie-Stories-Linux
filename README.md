@@ -15,3 +15,5 @@ It's a Linux Distribution (based on Void Linux) for Zombie Stories (Roblox) Play
 - Currently, we have rootfs tarball for manual installation. If you want to install, please join our official discord server's 
 - UTG/Linux Official Discord Server's: https://discord.gg/Ujr3Rtbnks
 - Discord: untitledtaggame_hype
+# ISO Downloads
+- Currently in Alpha stage (Use at your own risk): https://github.com/RunnerTechHype/Zombie-Stories-Linux/releases/tag/Pre-Release
