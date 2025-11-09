@@ -17,3 +17,5 @@ It's a Linux Distribution (based on Void Linux) for Zombie Stories (Roblox) Play
 - Discord: untitledtaggame_hype
 # ISO Downloads
 - Currently in Alpha stage (Use at your own risk): https://github.com/RunnerTechHype/Zombie-Stories-Linux/releases/tag/Pre-Release
+# Disclaimer
+🧟😼Fun Fact: Zombie Stories GNU/Linux is not affiliated with PANDEMIC Studios (The game studio on Roblox, which is current Roblox game called "Zombie Stories") 😼
