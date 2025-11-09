@@ -12,10 +12,9 @@ It's a Linux Distribution (based on Void Linux) for Zombie Stories (Roblox) Play
 - Codename for Zombie Stories GNU/Linux is going to be added (Beta release on Feburary 2026 also)
 - Other features (coming soon)
 # Zombie Stories GNU/Linux installation
-- Currently, we have rootfs tarball for manual installation. If you want to install, please join our official discord server's, then tag me and i will help for you
-- UTG/Linux Official Discord Server's: https://discord.gg/Ujr3Rtbnks
+- Currently, we have rootfs tarball for manual installation. If you want to install, please join our [official discord server's](https://discord.gg/Ujr3Rtbnks), then tag me and i will help for you
 - Discord: untitledtaggame_hype
 # ISO Downloads
-- Currently in Alpha stage (Use at your own risk): https://github.com/RunnerTechHype/Zombie-Stories-Linux/releases/tag/Pre-Release
+- Currently in Alpha stage (Use at your own risk): [Download here](https://github.com/RunnerTechHype/Zombie-Stories-Linux/releases/tag/Pre-Release)
 # Disclaimer
 🧟😼Fun Fact: Zombie Stories GNU/Linux **is not affiliated with PANDEMIC Studios** (The game studio on Roblox, which is current Roblox game called "Zombie Stories") 😼
